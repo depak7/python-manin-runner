@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+manim
+requests
+aiofiles
+python-dotenv
